@@ -75,7 +75,7 @@ This list is rebuilt automatically from the live server, so it always matches wh
 | Tool | What it does |
 | --- | --- |
 | `about_motifyme` | Who MotifyMe is, what it offers and the main public urls. |
-| `ai_car_search` | Describe the used car you want in plain English, for example "diesel estate under 8000 no older than 8 years" or "2.0L Audi Q3 automatic", and get matching live MotifyMe marketplace listings. |
+| `ai_car_search` | Describe the used car you want in plain English, for example "diesel estate under 8000 no older than 8 years" or "2.0L Audi Q3 automatic" or "automatic with Apple CarPlay under 15000" (equipment such as CarPlay, Android  |
 | `car_running_costs` | Vehicle tax, MOT and other running-cost facts for a UK-registered vehicle. |
 | `clean_air_zones` | List of UK clean air and low emission zones with daily charges and the official page for each. |
 | `company_car_tax_calculator` | Benefit-in-kind tax on a company car using the same bands as the MotifyMe calculator. |
