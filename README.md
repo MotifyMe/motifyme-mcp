@@ -70,7 +70,7 @@ This repository holds documentation only. The server is hosted by MotifyMe; ther
 <!-- tools:start -->
 ## Full tool list
 
-This list is rebuilt automatically from the live server, so it always matches what is available. 27 tools.
+This list is rebuilt automatically from the live server, so it always matches what is available. 28 tools.
 
 | Tool | What it does |
 | --- | --- |
@@ -81,6 +81,7 @@ This list is rebuilt automatically from the live server, so it always matches wh
 | `company_car_tax_calculator` | Benefit-in-kind tax on a company car using the same bands as the MotifyMe calculator. |
 | `ev_chargers_near` | Nearest public EV charging locations within 10 miles of a UK postcode. |
 | `ev_charging_cost_calculator` | Cost to drive an electric car a given distance. |
+| `factory_spec_report` | What the paid MotifyMe factory specification report covers and the link to buy it: the original factory build of a UK car by registration, including make, model and derivative, engine and fuel type, the optional extras f |
 | `free_vehicle_check` | Free check of a UK vehicle by registration plate. |
 | `fuel_cost_calculator` | Cost of a journey or a year of driving for a petrol or diesel car. |
 | `get_blog_post` | Full text of one published blog post by slug or url. |
