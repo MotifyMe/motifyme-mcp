@@ -70,7 +70,7 @@ This repository holds documentation only. The server is hosted by MotifyMe; ther
 <!-- tools:start -->
 ## Full tool list
 
-This list is rebuilt automatically from the live server, so it always matches what is available. 28 tools.
+This list is rebuilt automatically from the live server, so it always matches what is available. 33 tools.
 
 | Tool | What it does |
 | --- | --- |
@@ -88,17 +88,22 @@ This list is rebuilt automatically from the live server, so it always matches wh
 | `get_dealer` | Public storefront summary for one dealer slug including a sample of their current stock. |
 | `get_listing` | Full public details of one listing (spec, description, features, dealer, photos). |
 | `get_site_page` | Readable text of a public motifyme.co page listed by list_site_pages (guides, fuel price city pages, tool pages). |
+| `how_many_left` | How many of a car model are still licensed on UK roads and how many are declared off the road (SORN), from DVLA vehicle licensing statistics published by the Department for Transport. |
 | `list_makes_and_models` | Makes (and optionally models of one make) currently in stock with counts and the matching motifyme.co hub page url. |
 | `list_site_pages` | List public motifyme.co pages (guides, tools, finance pages, fuel price pages) from the sitemap, optionally filtered by keyword. |
 | `mot_pass_rate_rankings` | Ranks UK car models by first-time MOT pass rate with tests counted and average mileage at test, from DVSA anonymised MOT data under the Open Government Licence v3.0. |
 | `mot_statistics` | First-time MOT pass rate, most common failure areas and specific failures, average mileage at test and results by year of registration for a UK car model (for example make "Ford", model "Fiesta"), calculated from DVSA an |
+| `price_and_fuel_alerts` | Free MotifyMe email alerts: an alert when the price drops on a car listed on the MotifyMe marketplace (set up from the car's listing page), and fuel price alerts for a chosen area and fuel, set up on the MotifyMe fuel pr |
+| `recalls_by_model` | Published UK safety recalls for a car make, or a make and model, from DVSA recall data: number of recalls, the most recent, and each recall reference with the build dates it covers. |
 | `road_closures` | Current National Highways road closures (public data), optionally filtered by road such as M6. |
 | `search_blog` | Search published MotifyMe blog posts (UK car buying, selling, finance introductions, running costs, fuel, tax, MOT). |
 | `search_dealers` | Find dealers on the marketplace by name or town. |
 | `search_marketplace` | Search live used vehicle listings on the MotifyMe marketplace (UK dealers). |
+| `sell_your_car` | How a private seller lists their own car on the MotifyMe marketplace: enter the registration, add details and photos, and publish the advert from £9.99. |
 | `uk_car_news` | Latest UK motoring and automotive news headlines with short summaries and links to the full stories, supplied by Autosnip (FullyAuto). |
 | `uk_fuel_prices` | Latest UK average petrol and diesel pump prices (pence per litre) from the weekly DESNZ road fuel prices, with weekly change. |
 | `ulez_check` | Whether a UK-registered vehicle is compliant with the London ULEZ and other clean air zones. |
+| `used_car_price_reductions` | Which used cars on the MotifyMe marketplace have had their price reduced, overall and by make: number of reduced cars and typical reduction, with links to browse them. |
 | `vehicle_crime_near` | Latest month of police-reported vehicle crime near a UK postcode, with the most affected streets. |
 | `vehicle_history_check` | What the paid MotifyMe vehicle history check covers and the link to run it: stolen markers, insurance write-offs (Cat S, Cat N and older categories), outstanding finance, scrapped or salvaged, imported or exported, plate |
 | `vehicle_tax_estimate` | Estimated annual vehicle excise duty from CO2, engine size and first registration month, using the MotifyMe car tax logic. |
